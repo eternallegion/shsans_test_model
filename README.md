@@ -2,7 +2,7 @@ text cleaner from https://github.com/CjangCjengh/vits
 
 original repo: https://github.com/jaywalnut310/vits
 
-origin Fin-tuning repo : https://github.com/SayaSS/vits-finetuning.git
+origin Fine-tuning repo : https://github.com/SayaSS/vits-finetuning.git
 
 # Dataset : https://sites.google.com/site/shinnosuketakamichi/publication/jsut
 
