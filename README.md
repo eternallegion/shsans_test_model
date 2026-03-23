@@ -59,3 +59,7 @@ Edit "training_files" and "validation_files" in configs/config.json
 # Mutiple speakers
 python train_ms.py -c configs/config.json -m checkpoints
 ```
+
+
+## pip install pipreqs
+## pipreqs . --encoding=utf8 --force
