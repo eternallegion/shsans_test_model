@@ -2,12 +2,17 @@ text cleaner from https://github.com/CjangCjengh/vits
 
 original repo: https://github.com/jaywalnut310/vits
 
+origin Fin-tuning repo : https://github.com/SayaSS/vits-finetuning.git
+
+# Dataset : https://sites.google.com/site/shinnosuketakamichi/publication/jsut
+
+
 ## Online training and inference
 ### colab
 See [vits-finetuning](https://colab.research.google.com/drive/13FF2pBWxj9rMR1SjI_JpVD6mTRN-kq--?usp=share_link)
 
 # How to use
-(Suggestion) Python == 3.7
+(Suggestion) Python == 3.10
 
 Only Japanese datasets can be used for fine-tuning in this repo.
 ## Clone this repository
@@ -41,7 +46,7 @@ path/to/XXX.wav|speaker id|transcript
 ```
 dataset/001.wav|10|こんにちは。
 ```
-For complete examples, please see filelists/miyu_train.txt and filelists/miyu_val.txt.
+For complete examples, please see filelists/jsut_train.txt and filelists/jsut_val.txt.
 
 ## Preprocess
 ```sh
